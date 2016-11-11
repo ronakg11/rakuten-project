@@ -1,5 +1,4 @@
-#Java Automation Project
-> ##Base Point for Java Automation Projects
+#Java Automation Rakuten Project
 
 > *Project for creating automation tests using Selenium Webdriver and TestNG.*
 
@@ -13,6 +12,6 @@
 >> * JDBC
 >> * MySQL
 
-> Java Project for SQA Boot Camp October 3.
+> Java Project for SQA Boot Camp October 3. Created on November 10, 2016.
 
 [Ronak Gavandi](https://github.com/ronakg11/)
